@@ -180,7 +180,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output
 
-<img src="Screenshot 2025-04-26 111728.png" width=70%>
+![image](https://github.com/user-attachments/assets/c20e4c2c-b318-4ec6-af70-8cf1f013875b)
 
 
 
